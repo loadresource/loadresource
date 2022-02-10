@@ -2,6 +2,9 @@
 - 🔭 I’m currently working on ... My
 - 🌱 I’m currently learning ...
 [Freecodecamp](https://www.freecodecamp.org/learn/)
+ and
+[Platzi](https://www.platzi.com)
+
 ## ⚡ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
